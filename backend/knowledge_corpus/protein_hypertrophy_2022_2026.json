@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Tagawa et al. 2022 — Dose-response meta-analysis: protein intake and muscle strength",
+    "topic": "Protein and strength",
+    "year": 2022,
+    "doi": "10.1186/s40798-022-00508-w",
+    "origin_url": "https://doi.org/10.1186/s40798-022-00508-w",
+    "pmid": "PMC9441410",
+    "sample": "82 RCTs, dose-response spline modelling",
+    "text": "Tagawa et al. conducted a dose-response meta-analysis of 82 randomized controlled trials examining synergistic effects of protein intake and resistance training on muscle strength. Key findings: protein supplementation only improves muscle strength when combined with resistance training — the gain was +2.01% with RT versus +0.13% (non-significant) without RT. A dose-response relationship exists up to 1.5 g/kg body weight per day — each additional 0.1 g/kg/day adds approximately 0.72% strength gain (95% CI: 0.40–1.04%), but no further gains are observed beyond the 1.5 g/kg/day threshold. This confirms and refines the Morton et al. 2018 plateau finding using a more robust spline model approach. Practical coaching application: target 1.5–1.6 g/kg/day of total protein for resistance-training clients. Protein without resistance training produces no meaningful strength benefit. The benefit is independent of age, sex, or baseline protein intake."
+  },
+  {
+    "title": "Zhou et al. 2023 — Network meta-analysis: protein timing and type for muscle mass and strength",
+    "topic": "Protein timing and type",
+    "year": 2023,
+    "doi": "10.1123/ijsnem.2023-0118",
+    "origin_url": "https://doi.org/10.1123/ijsnem.2023-0118",
+    "pmid": "38039960",
+    "sample": "116 RCTs, 4711 participants",
+    "text": "Zhou et al. performed a network meta-analysis of 116 randomized controlled trials (4,711 participants) comparing effects of timing and types of protein supplementation on muscle mass, strength, and physical performance during resistance training. Key findings: post-exercise protein was most effective for increasing fat-free mass (MD: +0.54 kg, 95% CI: 0.10–0.99) and skeletal muscle mass (MD: +0.34 kg). Nighttime casein protein was most effective for strength gains (leg press MD: +12.12 kg, 95% CI: 3.26–20.99). Milk-based proteins (whey, casein, whole milk, yogurt, bovine colostrum) and red meat were the most consistently effective protein types for both muscle mass and strength gains. No timing or type enhanced physical performance metrics. Practical coaching application: prioritize post-workout whey or casein before sleep for maximum hypertrophy signalling. Milk-based proteins are evidence-backed as the best source. Nighttime casein meaningfully augments strength beyond just hitting daily protein targets."
+  },
+  {
+    "title": "Pelland et al. 2026 — Meta-regressions: weekly volume and frequency for hypertrophy and strength",
+    "topic": "Training volume dose-response",
+    "year": 2026,
+    "doi": "10.1007/s40279-025-02344-w",
+    "origin_url": "https://doi.org/10.1007/s40279-025-02344-w",
+    "pmid": "41343037",
+    "sample": "67 studies, 2058 participants (79.1% male, 20.9% female, avg age 25.2)",
+    "text": "Pelland et al. conducted multilevel meta-regressions on 67 studies (2,058 participants) examining dose-response relationships between weekly resistance training volume, frequency, and adaptations. This is the first meta-regression to classify sets as 'direct' versus 'indirect/fractional' before modelling. Key findings: volume unambiguously drives hypertrophy — the posterior probability of volume positively predicting muscle growth was 100%, but with diminishing returns at higher volumes. Frequency is NOT clearly beneficial for hypertrophy — the posterior probability was less than 100%, indicating effects may be negligible. However, frequency does clearly increase strength (100% posterior probability), also with diminishing returns. Classifying direct vs indirect sets matters critically — lumping all weekly sets together overestimates volume effects. Practical coaching application: more volume equals more hypertrophy, but returns diminish quickly. Don't chase unnecessarily high set counts; instead ensure direct sets for each muscle group are progressed incrementally. Frequency is secondary — increase it for time efficiency or strength, but not necessarily for hypertrophy alone."
+  },
+  {
+    "title": "Baz-Valle et al. 2022 — Systematic review: moderate vs high resistance training volume",
+    "topic": "Training volume thresholds",
+    "year": 2022,
+    "doi": "10.2478/hukin-2022-0017",
+    "origin_url": "https://doi.org/10.2478/hukin-2022-0017",
+    "pmid": "35291645",
+    "sample": "7 RCTs with strict inclusion (trained individuals, 1+ year RT experience)",
+    "text": "Baz-Valle et al. reviewed 7 high-quality RCTs comparing different resistance training volumes in trained young men (18–35 years) with at least 1 year of experience. Volume categories: Low (<12 sets/week), Moderate (12–20 sets/week), High (>20 sets/week). Key findings: no significant difference between moderate (12–20 sets) and high (>20 sets) volume for quadriceps (p=0.19) or biceps brachii (p=0.59) hypertrophy. However, high volume produced superior hypertrophy for the triceps brachii (p=0.01), suggesting muscle-specific volume thresholds exist. 12–20 weekly sets per muscle group is an optimal standard recommendation for trained men targeting hypertrophy — exceeding this provides minimal additional benefit for most muscles. Practical coaching application: the 12–20 sets/week sweet spot holds up. For most clients, this range maximises hypertrophy without unnecessary fatigue. Pushing beyond 20 sets is unlikely to be worth the added recovery cost, with the possible exception of smaller muscles like triceps."
+  },
+  {
+    "title": "Refalo et al. 2023 — Meta-analysis: proximity to failure and skeletal muscle hypertrophy",
+    "topic": "Training to failure vs RIR",
+    "year": 2023,
+    "doi": "10.1007/s40279-022-01784-y",
+    "origin_url": "https://doi.org/10.1007/s40279-022-01784-y",
+    "pmid": "36334240",
+    "sample": "15 studies, systematic review with meta-analysis",
+    "text": "Refalo et al. conducted a systematic review with meta-analysis of 15 studies examining the influence of resistance training proximity-to-failure on skeletal muscle hypertrophy. Outcomes were direct muscle measures (ultrasonography, MRI, biopsy). Key findings: training to momentary muscular failure shows NO significant advantage over non-failure training for hypertrophy (effect size = 0.12, 95% CI: −0.13 to 0.37, p=0.343). Using a broader 'set failure' definition, there was only a trivial advantage (ES = 0.19, 95% CI: 0.00–0.37, p=0.045) — statistically significant but practically negligible. Volume load and relative load do NOT moderate the failure effect. Practical coaching application: you do NOT need to train to failure to maximise hypertrophy. Leaving 1–3 reps in reserve (RIR) per set appears sufficient for strong muscle growth signals while significantly reducing injury risk, joint stress, and recovery demands. Reserve failure sets sparingly for final sets of isolation exercises, not compound movements."
+  },
+  {
+    "title": "Robinson et al. 2024 — Meta-regressions: continuous RIR dose-response for hypertrophy and strength",
+    "topic": "RIR dose-response",
+    "year": 2024,
+    "doi": "10.1007/s40279-024-02069-2",
+    "origin_url": "https://doi.org/10.1007/s40279-024-02069-2",
+    "pmid": "38970765",
+    "sample": "Exploratory series of multilevel meta-regressions across multiple studies",
+    "text": "Robinson et al. performed the first continuous dose-response analysis of RIR (not binary failure vs non-failure). Key findings: for muscle hypertrophy, training closer to failure equals more muscle growth — all best-fit models showed negative marginal slopes for estimated RIR (lower RIR leads to more growth), and confidence intervals did not include zero. For strength, proximity to failure does NOT matter — strength gains were similar across a wide range of RIR, and confidence intervals included zero. Important limitations: RIR was estimated, not directly measured. Practical coaching application: the nuanced picture is that proximity to failure matters for hypertrophy in a graded, continuous way — closer to failure equals marginally more growth — but for strength it doesn't matter much. Optimal recommendation: train with 1–3 RIR for most hypertrophy sets, use to-failure sets strategically. This balances stimulus quality with recovery capacity."
+  },
+  {
+    "title": "Kreider et al. 2017 + Antonio et al. 2025 — ISSN creatine position stand and Part II update",
+    "topic": "Creatine supplementation",
+    "year": 2025,
+    "doi": "10.1080/15502783.2024.2441760",
+    "origin_url": "https://doi.org/10.1080/15502783.2024.2441760",
+    "pmid": "39720835",
+    "sample": "Comprehensive review spanning hundreds of studies over 25+ years (ISSN consensus)",
+    "text": "The ISSN position stand (Kreider 2017, DOI: 10.1186/s12970-017-0173-z) and its 2025 narrative update (Antonio et al., Part II) represent the most comprehensive creatine evidence synthesis available. Key findings: creatine monohydrate is the most effective and safest ergogenic nutritional supplement for increasing high-intensity exercise capacity and muscle mass. Standard dosing: loading phase 20g/day (4x5g) for 5-7 days then maintenance 3-5g/day. Loading is optional — 3g/day for 28 days achieves the same saturation without GI effects. Short and long-term use (up to 30g/day for 5 years) is safe in healthy individuals. The 2025 update (Part II) confirms: creatine can provide muscle and cognitive benefits even without exercise (relevant for aging), is safe for females, adolescents, children, and older adults, and may reduce severity of traumatic brain injury. Practical coaching application: 3-5g/day monohydrate is universally recommended for all clients in resistance training. No loading phase required. No safety concerns regardless of age, sex, or training status. It is the single most evidence-supported supplement in sports nutrition."
+  },
+  {
+    "title": "Desai et al. 2024 — Meta-analysis: creatine + resistance training and body composition",
+    "topic": "Creatine and body composition",
+    "year": 2024,
+    "doi": "10.1519/JSC.0000000000004862",
+    "origin_url": "https://doi.org/10.1519/JSC.0000000000004862",
+    "pmid": "39074168",
+    "sample": "12 RCTs (1694 records screened, ages <50 years)",
+    "text": "Desai et al. conducted a systematic review and meta-analysis of 12 RCTs examining creatine supplementation effects on resistance training-based body composition changes in adults under 50 years. Key findings: creatine + RT vs RT alone increased lean body mass by +1.14 kg (95% CI: 0.69–1.59 kg), a robust and clinically meaningful effect. Body fat percentage decreased by -0.88% (95% CI: -1.66 to -0.11) and fat mass by -0.73 kg (95% CI: -1.34 to -0.11). Dosing finding: 7g/day or 0.3g/kg body mass/day is likely sufficient. Concurrent carbohydrate ingestion does NOT enhance creatine's hypertrophy benefits, contrary to older marketing claims. Practical coaching application: creatine adds approximately 1 kg of lean mass on top of what RT alone provides, a meaningful and consistent benefit. 3-5g/day monohydrate is sufficient; no need for loading, insulin co-ingestion (sugar), or expensive forms."
+  },
+  {
+    "title": "Lundberg et al. 2022 — Meta-analysis: concurrent training effects on muscle fiber hypertrophy",
+    "topic": "Concurrent training interference",
+    "year": 2022,
+    "doi": "10.1007/s40279-022-01688-x",
+    "origin_url": "https://doi.org/10.1007/s40279-022-01688-x",
+    "pmid": "35476184",
+    "sample": "15 studies, systematic review with meta-analysis (biopsy-level fiber data)",
+    "text": "Lundberg et al. examined the effects of concurrent aerobic and strength training on muscle fiber hypertrophy specifically (not just whole-muscle). This 15-study meta-analysis used biopsy data for higher sensitivity than imaging. Key findings: at the whole-muscle level, concurrent training does NOT significantly impair hypertrophy — consistent with prior literature. However, at the muscle fiber level, a small but significant interference effect exists (SMD = -0.23, 95% CI: -0.46 to 0.00, p=0.050). Type I (slow-twitch) fibers are specifically impaired by concurrent training, particularly when aerobic exercise is running (SMD = -0.81, 95% CI: -1.26 to -0.36). Cycling did NOT produce significant type I fiber interference. Type II (fast-twitch) fibers showed no significant impairment from any modality (SMD = -0.13, p=0.315). Practical coaching application: whole-muscle mass gains are largely preserved during concurrent training. If including cardio, prefer cycling over running to minimize interference. Separate cardio and lifting sessions by 6-24 hours when possible."
+  },
+  {
+    "title": "Huiberts et al. 2024 — Meta-analysis: sex differences and training status in concurrent training",
+    "topic": "Concurrent training sex differences",
+    "year": 2024,
+    "doi": "10.1007/s40279-023-01943-9",
+    "origin_url": "https://doi.org/10.1007/s40279-023-01943-9",
+    "pmid": "37847373",
+    "sample": "59 studies, 1346 participants, healthy adults 18-50 years",
+    "text": "Huiberts et al. conducted a meta-analysis of 59 studies (1,346 participants) examining how sex and training status moderate concurrent training interference. Key findings: concurrent training impairs lower-body strength in males (SMD = -0.43, 95% CI: -0.64 to -0.22) but NOT in females (SMD = +0.08, 95% CI: -0.34 to +0.49) — a statistically significant sex difference (p=0.03). Upper-body strength, power, and VO2max adaptations showed NO sex differences. Hypertrophy data were insufficient to draw sex-specific conclusions — an important gap in the literature. Practical coaching application: female clients have significantly less to worry about from concurrent training than males. For male clients prioritising lower-body strength or hypertrophy, be more deliberate about separating strength and endurance sessions. The universal 'concurrent training kills gains' advice is overstated — it's primarily a concern for strength-trained males doing high-volume lower-body endurance work."
+  }
+]

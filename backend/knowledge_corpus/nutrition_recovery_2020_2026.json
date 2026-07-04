@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Xie et al. 2025 — Network meta-analysis: exercise modalities during caloric restriction for body composition",
+    "topic": "Fat loss and muscle preservation",
+    "year": 2025,
+    "doi": "10.3389/fnut.2025.1579024",
+    "origin_url": "https://doi.org/10.3389/fnut.2025.1579024",
+    "pmid": "PMC12158682",
+    "sample": "62 RCTs, 4429 participants, network meta-analysis",
+    "text": "Xie et al. conducted a network meta-analysis of 62 RCTs (N=4,429) comparing exercise modalities during caloric restriction for body composition. For lean body mass preservation, ranking was: moderate-intensity mixed exercise > moderate-intensity resistance > low-intensity resistance >> caloric restriction alone. CR alone produced significant lean mass loss (SMD = -1.66, 95% CI -3.12 to -0.19). For fat mass reduction, low-intensity aerobic + CR and high-intensity aerobic + CR ranked best. All exercise modalities outperformed CR alone. Practical coaching application: never rely on diet alone to cut fat. Adding moderate-intensity resistance or mixed exercise to a deficit is the single most effective muscle-preservation strategy, with effect sizes 3-5x better than diet alone. Aim for 3-4 sessions/week of resistance training during a deficit."
+  },
+  {
+    "title": "Xie et al. 2024 — Network meta-analysis: different exercises combined with dietary interventions",
+    "topic": "Diet strategies and exercise",
+    "year": 2024,
+    "doi": "10.3390/nu16183007",
+    "origin_url": "https://doi.org/10.3390/nu16183007",
+    "pmid": "39275322",
+    "sample": "78 RCTs, 5219 participants, network meta-analysis",
+    "text": "Xie et al. analyzed 78 RCTs (N=5,219) comparing different exercise-diet combinations for body composition. CR+Exercise ranked #1 for weight reduction, BMI reduction, and body fat percentage reduction across all dietary strategies. For lean body mass in males: CR+EX > TRF+EX > KD+EX. For lean body mass in females: TRF (time-restricted feeding)+EX ranked #1, outperforming CR+EX — a notable sex-differentiated finding. Ketogenic diet + exercise was worst for fat % and lean mass preservation. Practical coaching application: standard caloric restriction with exercise is the gold-standard for body composition. Time-restricted eating + exercise may be better for women's muscle preservation specifically. Avoid ketogenic diets if preserving muscle is a priority."
+  },
+  {
+    "title": "Craven et al. 2022 — Meta-analysis: acute sleep loss effects on physical performance",
+    "topic": "Sleep and performance",
+    "year": 2022,
+    "doi": "10.1007/s40279-022-01706-y",
+    "origin_url": "https://doi.org/10.1007/s40279-022-01706-y",
+    "pmid": "35708888",
+    "sample": "69 publications, 227 outcome measures, n=959 (89% male)",
+    "text": "Craven et al. conducted a multi-level random-effects meta-analysis of 69 publications (227 outcome measures, n=959) examining sleep loss effects on exercise performance. Sleep loss (≤6h) produced a mean -7.56% decrease in exercise performance (95% CI -11.9 to -3.13, p=0.001). Effects were significant across ALL exercise categories: anaerobic power, speed/power endurance, HIIE, strength, endurance, strength-endurance, and skill tasks. Pattern matters critically: total sleep deprivation and late restriction (waking earlier) consistently harmed performance; early restriction (delayed onset) had inconsistent effects. Approximately 0.4% performance decrease for every additional hour awake prior to exercise. PM exercise was consistently impaired by sleep loss; AM exercise was largely unaffected. Practical coaching application: prioritize morning training sessions when sleep has been compromised. Even a single night of ≤6h sleep costs ~7.5% performance. Schedule demanding sessions in the AM when possible."
+  },
+  {
+    "title": "Walsh et al. 2021 — BJSM expert consensus: sleep and the athlete",
+    "topic": "Sleep recommendations for athletes",
+    "year": 2021,
+    "doi": "10.1136/bjsports-2020-102025",
+    "origin_url": "https://doi.org/10.1136/bjsports-2020-102025",
+    "pmid": "33144349",
+    "sample": "Expert consensus panel, British Journal of Sports Medicine",
+    "text": "Walsh et al. published a 2021 BJSM expert consensus on sleep and athletic performance. Key findings: elite athletes habitually sleep less than 7 hours/night with poor quality (fragmentation, early awakening). Sleeping <7h/night increases susceptibility to respiratory infections. The consensus rejects one-size-fits-all 7-9h recommendation; advocates individualized sleep needs assessment per athlete. Key modifiable risk factors: training load timing, travel/jet lag, competition anxiety, social media use. Recommends a Sleep Toolbox: education, screening (PSQI), sleep extension, and napping protocols. Practical coaching application: 7-9 hours is a population guideline, not an athlete prescription. High-training-load athletes may need 9-10h. Track subjective sleep quality (not just duration) and schedule demanding sessions away from late-evening time slots. Use 20-90 min daytime naps to compensate for poor nocturnal sleep."
+  },
+  {
+    "title": "Rowlands et al. 2022 — Meta-analysis: hydrating effects of sports drinks during exercise",
+    "topic": "Hydration during exercise",
+    "year": 2022,
+    "doi": "10.1007/s40279-021-01561-3",
+    "origin_url": "https://doi.org/10.1007/s40279-021-01561-3",
+    "pmid": "34716905",
+    "sample": "28 studies, 68 drink treatment effects, Bayesian meta-analysis",
+    "text": "Rowlands et al. conducted a Bayesian meta-analysis of 28 studies (68 drink treatments) comparing hydration effects of different sports drinks during continuous exercise. All beverages led to plasma volume decline: hypertonic (-7.4%), isotonic (-8.7%), hypotonic (-6.3%), water (-7.5%). Hypotonic drinks were very likely superior to isotonic for maintaining plasma volume (posterior probability = 0.984) and likely superior to hypertonic and water. Conventional wisdom favoring isotonic drinks was NOT supported. Hypotonic carbohydrate-electrolyte formulations (osmolality <275 mOsmol/kg) perform best for central hydration. Practical coaching application: for endurance exercise >60 minutes, diluted sports drinks or coconut water-based options may outperform standard Gatorade/Powerade formulations. Recommend hypotonic solutions for prolonged efforts."
+  },
+  {
+    "title": "Siles-Guerrero et al. 2024 — Meta-analysis: intermittent fasting vs continuous caloric restriction",
+    "topic": "Intermittent fasting",
+    "year": 2024,
+    "doi": "10.3390/nu16203533",
+    "origin_url": "https://doi.org/10.3390/nu16203533",
+    "pmid": "39458528",
+    "sample": "10 RCTs, 623 participants",
+    "text": "Siles-Guerrero et al. compared fasting-based strategies (FBS) vs continuous caloric restriction (CCR) in 10 RCTs (N=623). Both produced equivalent weight loss at 6 months (~5.5-6.5 kg). FBS produced slightly greater short-term fat mass loss (-1.08 kg, p=0.0001) and body weight (-0.94 kg, p=0.004) vs CCR, but differences are not clinically significant. Lean mass outcomes were identical between fasting and continuous restriction — fasting does not spare muscle better than traditional dieting. FBS showed superior insulin sensitivity: fasting insulin (-7.46 pmol/L, p=0.02) and HOMA-IR (-0.14, p=0.02). No long-term outcome advantage for fasting. Practical coaching application: intermittent fasting is a valid but not superior strategy to standard caloric restriction for fat loss or lean mass preservation. The metabolic health benefits (insulin sensitivity) make it useful for individuals with metabolic risk. Choose the approach that maximizes adherence and sustainability."
+  },
+  {
+    "title": "Yaghoobi et al. 2026 — Meta-analysis: omega-3 PUFA supplementation for muscle recovery",
+    "topic": "Omega-3 and recovery",
+    "year": 2026,
+    "doi": "10.3390/nu18091447",
+    "origin_url": "https://doi.org/10.3390/nu18091447",
+    "pmid": "42124047",
+    "sample": "43 studies in systematic review, 9 RCTs in meta-analysis",
+    "text": "Yaghoobi et al. conducted a PRISMA-compliant meta-analysis of omega-3 (LC n-3 PUFA) supplementation effects on exercise-induced muscle damage and recovery. Results from 9 placebo-controlled RCTs using eccentric exercise models: DOMS reduction (Hedges g = -0.75, large effect), creatine kinase reduction (g = -0.40, moderate), muscle swelling reduction (g = -0.45, moderate), strength recovery improvement (g = +0.45, moderate), and range of motion improvement (g = +0.93, large effect). Results are specific to eccentric exercise (most relevant for resistance training). Dosing recommendations could not be established due to inconsistent protocols across studies. Practical coaching application: EPA+DHA supplementation meaningfully reduces muscle soreness and damage markers after hard training. Target an Omega-3 Index of 8-11% (validated by blood test) rather than fixed dose. Most trials used 2-4g/day EPA+DHA. Especially useful during high-volume training blocks."
+  },
+  {
+    "title": "Guest et al. 2021 — ISSN position stand: caffeine and exercise performance",
+    "topic": "Caffeine ergogenic effects",
+    "year": 2021,
+    "doi": "10.1186/s12970-020-00383-4",
+    "origin_url": "https://doi.org/10.1186/s12970-020-00383-4",
+    "pmid": "33388079",
+    "sample": "ISSN position stand reviewing 420 references",
+    "text": "The 2021 ISSN position stand on caffeine (420 references reviewed) established: caffeine enhances muscular endurance, movement velocity, strength, sprinting, jumping, throwing, and aerobic/anaerobic sport-specific actions. Aerobic endurance shows the most consistent moderate-to-large benefits. Effective dose: 3-6 mg/kg body mass (minimum effective: 2 mg/kg; high doses of 9 mg/kg increase side effects without additional benefit). Standard timing: 60 minutes pre-exercise (capsules); caffeine gum effective in <15 minutes due to buccal absorption. Ergogenic in both trained and untrained individuals. Genetic variability (CYP1A2, ADORA2A genes) explains inter-individual differences. Also improves cognitive function (attention, vigilance) for skill-based sports. Effective in heat (3-6 mg/kg) and altitude (4-6 mg/kg). Practical coaching application: 3-6 mg/kg caffeine 60 minutes pre-exercise is the evidence-backed protocol. For a 75kg athlete: 225-450mg (2-4 espresso shots). Avoid caffeine after early afternoon if sleep is a priority."
+  },
+  {
+    "title": "Grgic et al. 2020 — Umbrella review: caffeine supplementation across 21 meta-analyses",
+    "topic": "Caffeine meta-evidence",
+    "year": 2020,
+    "doi": "10.1136/bjsports-2018-100278",
+    "origin_url": "https://doi.org/10.1136/bjsports-2018-100278",
+    "pmid": "30926628",
+    "sample": "11 systematic reviews, 21 meta-analyses synthesized (umbrella review)",
+    "text": "Grgic et al. conducted the highest-level evidence synthesis possible — an umbrella review of 21 meta-analyses on caffeine and exercise performance. Caffeine was ergogenic across all exercise domains: aerobic endurance, muscle strength, muscle endurance, power, jumping performance, and exercise speed. Quality of evidence was moderate (GRADE) for all domains. Effect magnitude is consistently greater for aerobic vs anaerobic exercise. Important limitation: most primary studies used young men — female, older adult, and recreational athlete data are underrepresented. Practical coaching application: caffeine reliably improves performance across every domain tested. The aerobic > anaerobic effect hierarchy should guide dosing priorities by training goal. For strength-focused athletes, benefits are present but smaller than for endurance athletes."
+  },
+  {
+    "title": "Gardiner et al. 2023 — Meta-analysis: caffeine effects on subsequent sleep",
+    "topic": "Caffeine and sleep interaction",
+    "year": 2023,
+    "doi": "10.1016/j.smrv.2023.101764",
+    "origin_url": "https://doi.org/10.1016/j.smrv.2023.101764",
+    "pmid": "36870101",
+    "sample": "24 studies, systematic review with meta-analysis",
+    "text": "Gardiner et al. quantified caffeine's effects on sleep in a 24-study meta-analysis. Caffeine reduced total sleep time by 45 minutes, sleep efficiency by 7%, increased sleep onset latency by 9 minutes, and wake after sleep onset by 12 minutes. Deep sleep (N3/N4) was reduced by 11.4 minutes — the most recovery-relevant sleep stage. Evidence-based cutoff thresholds: coffee (107mg/250mL) should be consumed ≥8.8 hours before bed; pre-workout supplements (217.5mg) should be consumed ≥13.2 hours before bed. Practical coaching application: a 6am pre-workout caffeine dose is safe; a 2pm dose for evening exercise is problematic. The 13.2h cutoff for pre-workouts means anything after ~9am risks sleep quality for athletes sleeping at 10pm. This creates a direct conflict between caffeine's performance benefits and recovery needs — coaches must weigh this trade-off individually."
+  }
+]
