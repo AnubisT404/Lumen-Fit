@@ -19,7 +19,22 @@ Built with iOS 26 Liquid Glass design language.
 
 ## Screenshots
 
-> _Coming soon — run the app and use the built-in Dev Tour screen to capture screenshots._
+<p align="center">
+  <img src="docs/screenshots/diary_light.png" width="200" alt="Diary - Light Mode"/>
+  <img src="docs/screenshots/diary_dark.png" width="200" alt="Diary - Dark Mode"/>
+  <img src="docs/screenshots/workouts_light.png" width="200" alt="Workouts"/>
+  <img src="docs/screenshots/food_search_dark.png" width="200" alt="Food Search"/>
+</p>
+<p align="center">
+  <img src="docs/screenshots/cardio_form.png" width="200" alt="Cardio Form"/>
+  <img src="docs/screenshots/routine_builder.png" width="200" alt="Routine Builder"/>
+</p>
+
+### Demo
+
+<p align="center">
+  <img src="docs/screenshots/overview.gif" width="300" alt="App Overview"/>
+</p>
 
 ## Architecture
 

@@ -46,3 +46,4 @@ backend/data/
 backend/.knowledge_indexes/
 .mcp.json
 .github/prompts/
+docs/app_demo.mp4
