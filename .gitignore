@@ -44,3 +44,5 @@ backend/data/
 
 # Knowledge indexes (regenerable)
 backend/.knowledge_indexes/
+.mcp.json
+.github/prompts/

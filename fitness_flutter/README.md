@@ -1,17 +1,29 @@
-# fitness_app
+# Fitness Tracker — Flutter App
 
-A new Flutter project.
+The Flutter frontend for the Fitness Tracker. See the [main README](../README.md) for full project details.
 
-## Getting Started
+## Quick Start
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter SDK ≥ 3.41
+- iOS 26+ simulator/device (for Liquid Glass UI)
+- Backend running on localhost:8000 (see `../backend/`)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Structure
+
+```
+lib/
+├── config/       Theme, router, API config
+├── models/       Data classes
+├── providers/    Riverpod state management
+├── screens/      Feature screens
+├── services/     API layer
+├── utils/        Helpers
+└── widgets/      Shared components
+```
