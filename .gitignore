@@ -48,3 +48,7 @@ backend/.knowledge_indexes/
 .github/prompts/
 docs/app_demo.mp4
 HANDOFF.md
+
+# Personal one-off tooling
+backend/scripts/
+HANDOFF.md
