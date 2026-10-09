@@ -108,6 +108,19 @@ Copy `.env.example` to `.env` and configure:
 | `ALLOWED_ORIGINS` | CORS origins | Default: localhost |
 | `DATABASE_URL` | Database connection string | Default: SQLite |
 
+### Local Food Database
+
+Food search uses a large local SQLite database ('backend/<db-name>.db', `1.6 GB) for fast search and serving size data. **It is not included in this repo.**
+
+The database is personally compiled, enriched dataset of generic and branded foods (over 1M items) with macros, micros, and real-world serving sizes, assembled from multiple "well-known" sources. it is much richer than the USDA and Openfoodfacts.
+
+- **Without it:** the backend still runs and falls back to the USDA FoodData Central API (set `USDA_API_KEY` in `.env`).
+- **With it:** place the file at the location and the backend detects it auto on startup.
+
+**To Request the database**, open issue titles `Food DB Request` and include:
+1. name(optional) and how you plan to use it
+2. confirmation that your use is non-commercial and complies with the [LICENSE]
+
 ## Project Structure
 
 The app follows a clean layered architecture:
